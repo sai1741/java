@@ -1,4 +1,3 @@
-package basic;
 
 import java.util.*;
 

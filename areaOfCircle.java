@@ -1,4 +1,4 @@
-package basic;
+
 import java.util.*;
 public class areaOfCircle {
 
