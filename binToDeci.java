@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bioToDeci {
+public class binToDeci {
 
     public static int deci(int num){
         int deci=0;
